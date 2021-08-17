@@ -1,7 +1,8 @@
-
-- 🌱 Learning Python 
-- 📫 samuelkevin2003@gmail.com
-- 😄 He/His
+### Hi there, I'm Samuel Kevin
+- 🌱 Learning: Python 
+- 📫 Email: samuelkevin2003@gmail.com
+- 😄 Pronouns: He/His
+- 👨‍🎓 Studying: Software Engineering
 
 <div>
   <a href="https://github.com/rafaballerini">
