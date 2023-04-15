@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/samuelkev/samuelkev/main/profile-summary-card-output/ocean_dark/4-productive-time.svg)
+```
+
+    
