@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey,  my name is Samuel Kevin and i'm a Software Developer, from AM, Brazil. <br><br>- 🌱 Learning: Flutter <br>- 📫 Email: samuelkevin2003@gmail.com<br>- 😄 Pronouns: He/His<br>- 👨‍🎓 Studying: Software Engineering</p>
+<p align="left">Hey,  my name is Samuel Kevin and i'm a Software Developer, from AM, Brazil. <br><br>- 🌱 Learning: Python <br>- 📫 Email: samuelkevin2003@gmail.com<br>- 😄 Pronouns: He/His<br>- 👨‍🎓 Studying: Software Engineering</p>
 
 ###
 
